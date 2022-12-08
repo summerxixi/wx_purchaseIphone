@@ -1,0 +1,8 @@
+{
+    "usingComponents": {
+    "eva-search":"../../components/search/search",
+    "mp-sticky": "@miniprogram-component-plus/sticky"
+    },
+    "enablePullDownRefresh": true,
+    "navigationBarTitleText": "主页"
+}

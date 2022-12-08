@@ -1,0 +1,6 @@
+<!--pages/home/home.wxml-->
+<!-- <text>pages/home/home.wxml</text> -->
+<button bindtap="handGet">ajax-get</button>
+<button bindtap="handPost">ajax-post</button>
+<button bindtap="handPut">ajax-put</button>
+<button bindtap="handDelete">ajax-delte</button>

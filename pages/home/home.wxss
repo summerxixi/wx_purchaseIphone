@@ -1,0 +1,15 @@
+/* pages/home/home.wxss */
+swiper image{ 
+    width: 100%;
+}
+swiper{
+    height: 297rpx;
+}
+.goodsbox{
+overflow: hidden;
+padding: 20rpx;
+}
+.goodsbox image{
+    width: 200rpx;
+    float: left;
+}
